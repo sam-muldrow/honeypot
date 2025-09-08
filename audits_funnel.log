@@ -1,0 +1,16 @@
+Client 127.0.0.1 attempted connection with username: hello, password: l
+Command ls executed by 127.0.0.1
+Command cat jumpbox.conf executed by 127.0.0.1
+Command exit executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: hello, password: l
+Command ls executed by 127.0.0.1
+Command cat 123 executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: p
+Client 127.0.0.1 attempted connection with username: root, password: password
+Command  executed by 127.0.0.1
+Command  executed by 127.0.0.1
+Command  executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cat jumpbox.conf executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command exit executed by 127.0.0.1

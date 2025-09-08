@@ -1,0 +1,34 @@
+Client 127.0.0.1 attempted connection with username: username, password: password
+127.0.0.1, username, password
+Client 127.0.0.1 attempted connection with username: username, password: password
+127.0.0.1, username, password
+Command b'ls'executed by 127.0.0.1
+Command b'123'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+127.0.0.1, username, password
+Command b'ls'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+127.0.0.1, username, password
+Command b'ls'executed by 127.0.0.1
+Command b'\x03\x03exit'executed by 127.0.0.1
+Command b'exit'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: password
+127.0.0.1, username, password
+Command b'\xce\xa9\x7f\x1a\x7f\x7f'executed by 127.0.0.1
+Command b''executed by 127.0.0.1
+Command b'\xce\xa9\x7f\x7f\x03\x7f\x7f\x7f\x7f'executed by 127.0.0.1
+Command b'\x1a'executed by 127.0.0.1
+Command b'exit'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: hello, password: password
+127.0.0.1, hello, password
+Command b'\x03\x03\x03\x03uu\x7f\x7fe\x7f\x7f\x7f\x7f\x7f\x7f\x7f'executed by 127.0.0.1
+Command b'exit'executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: hello, password: password
+127.0.0.1, hello, password
+Command  executed by 127.0.0.1
+Command asdasd executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: hello, password: a
+127.0.0.1, hello, a
+Command ls executed by 127.0.0.1
+Command exit executed by 127.0.0.1
