@@ -2,3 +2,6 @@
 127.0.0.1, hello, l
 127.0.0.1, username, p
 127.0.0.1, root, password
+127.0.0.1, username, h
+127.0.0.1, username, l
+127.0.0.1, root, any

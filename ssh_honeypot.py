@@ -206,4 +206,4 @@ def honeypot(address, port, username, password):
             print(error)
             print("!!! Error 143 !!!")
 
-honeypot('127.0.0.1', 2223, username=None, password=None)
+#honeypot('127.0.0.1', port, username=None, password=None)

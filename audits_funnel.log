@@ -14,3 +14,19 @@ Command ls executed by 127.0.0.1
 Command cat jumpbox.conf executed by 127.0.0.1
 Command pwd executed by 127.0.0.1
 Command exit executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: h
+Command exit executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: username, password: l
+Command  executed by 127.0.0.1
+Command  executed by 127.0.0.1
+Command ls executed by 127.0.0.1
+Command cat jumpbox.conf executed by 127.0.0.1
+Command clear executed by 127.0.0.1
+Command exit executed by 127.0.0.1
+Client 127.0.0.1 attempted connection with username: root, password: any
+Command ls executed by 127.0.0.1
+Command pwd executed by 127.0.0.1
+Command whoami executed by 127.0.0.1
+Command cat jumpbox.conf executed by 127.0.0.1
+Command sudo rm -rf / executed by 127.0.0.1
+Command exit executed by 127.0.0.1
